@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jeatzr
-- 👀 I’m interested in web design, js, frontend, react...
-- 🌱 I’m currently learning react ad firebase
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👀 I’m interested in web design, js, frontend and React in educational evironments 
+- 🌱 I’m currently learning React and Firebase
+- 💞️ I’m looking to collaborate with my students
 
 <!---
 jeatzr/jeatzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
