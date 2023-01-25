@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeatzr
 - 👀 I’m interested in web design, frontend, JS  and React in educational environments 
-- 🌱 I’m currently learning React and Firebase
+- 🌱 I’m currently learning React, Python and Machine Learning
 - 💞️ I’m looking to collaborate with my students
 
 <!---
